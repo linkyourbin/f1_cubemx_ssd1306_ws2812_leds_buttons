@@ -1,6 +1,0 @@
-C:/Users/Admin/Desktop/f1_cubemx_test/build/CMakeFiles/f1_cubemx_test.dir
-C:/Users/Admin/Desktop/f1_cubemx_test/build/CMakeFiles/edit_cache.dir
-C:/Users/Admin/Desktop/f1_cubemx_test/build/CMakeFiles/rebuild_cache.dir
-C:/Users/Admin/Desktop/f1_cubemx_test/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
-C:/Users/Admin/Desktop/f1_cubemx_test/build/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
-C:/Users/Admin/Desktop/f1_cubemx_test/build/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
