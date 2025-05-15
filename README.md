@@ -1,6 +1,8 @@
 1：`ws2812`驱动：`PWM+DMA`
 - 配置为`800KHz，1.25us`
-![](config_images/pwm_dma.png)
+![](config_images/pwm_t3c3_dma.png)
+![](config_images/pwm_t3c4_dma.png)
+
 
 2：`CH1116 SPI1`驱动
 
