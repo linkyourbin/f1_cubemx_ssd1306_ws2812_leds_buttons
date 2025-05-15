@@ -1,0 +1,5 @@
+source [find interface/stlink.cfg]
+#transport select swd
+source [find target/stm32f1x.cfg]
+
+program C:/Users/Admin/Desktop/f1_cubemx_test/build/f1_cubemx_test.elf verify reset exit
